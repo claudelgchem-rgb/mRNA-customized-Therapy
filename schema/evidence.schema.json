@@ -1,0 +1,84 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "INTX Evidence Record",
+  "description": "근거 원장 evidence_ledger.jsonl 의 한 줄(JSON object) 스키마",
+  "type": "object",
+  "required": ["rid", "claim", "module", "agent", "source_type", "title", "publisher", "url", "reliability"],
+  "additionalProperties": false,
+  "properties": {
+    "rid": {
+      "type": "string",
+      "pattern": "^R[0-9]{3,4}$",
+      "description": "근거 ID. 에이전트별 블록 할당: A1=R100-199, A2=R200-299, A3=R300-399, A4=R400-499, A5=R500-599, B1=R600-699, B2=R700-799, C1=R800-899, C2=R900-999, C3=R1000-1099, D1=R1100-1199, D2=R1200-1299, D3=R1300-1399"
+    },
+    "claim": {
+      "type": "string",
+      "description": "이 근거가 뒷받침하는 구체적 사실 주장 (한국어, 수치 포함)"
+    },
+    "module": {
+      "type": "string",
+      "enum": ["M1", "M2", "M3", "M4", "M5", "M6", "M7"]
+    },
+    "agent": {
+      "type": "string",
+      "enum": ["A1", "A2", "A3", "A4", "A5", "B1", "B2", "C1", "C2", "C3", "D1", "D2", "D3", "O", "V", "R", "W"]
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "peer_reviewed",
+        "regulatory",
+        "registry",
+        "company_filing",
+        "company_pr",
+        "conference_abstract",
+        "patent",
+        "trade_press",
+        "secondary"
+      ]
+    },
+    "title": { "type": "string" },
+    "publisher": { "type": "string" },
+    "url": { "type": "string" },
+    "published": {
+      "type": "string",
+      "description": "YYYY-MM-DD 또는 'unknown'"
+    },
+    "locator": {
+      "type": "string",
+      "description": "출처 내 위치. 예: 'Results, Table 2', 'Item 1A Risk Factors', 'Claim 1'"
+    },
+    "quote_ko": {
+      "type": "string",
+      "description": "원문 요지의 한국어 요약. 직접 인용은 15단어 미만으로 최소화"
+    },
+    "reliability": {
+      "type": "string",
+      "enum": ["상", "중", "하"],
+      "description": "R 에이전트가 독립적으로 부여한 최종 등급"
+    },
+    "reliability_self": {
+      "type": "string",
+      "enum": ["상", "중", "하"],
+      "description": "조사 에이전트의 자체 평가 (R 등급과 불일치 시 V가 검토)"
+    },
+    "reliability_rationale": { "type": "string" },
+    "verified_by": {
+      "type": "string",
+      "description": "등급을 부여한 에이전트. 통상 'R'"
+    },
+    "conflicts_with": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "이 근거와 충돌하는 다른 rid 목록"
+    },
+    "notes": {
+      "type": "string",
+      "description": "설계 한계, 해석 주의사항, 왜 중요한지"
+    },
+    "downgrade_reason": {
+      "type": "string",
+      "description": "R 에이전트가 self 등급보다 낮게 조정한 사유"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:clinicaltrials.gov)",
+      "WebFetch(domain:pubmed.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:www.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:eutils.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:europepmc.org)",
+      "WebFetch(domain:www.nature.com)",
+      "WebFetch(domain:www.nejm.org)",
+      "WebFetch(domain:ascopubs.org)",
+      "WebFetch(domain:www.thelancet.com)",
+      "WebFetch(domain:aacrjournals.org)",
+      "WebFetch(domain:www.cell.com)",
+      "WebFetch(domain:jitc.bmj.com)",
+      "WebFetch(domain:www.fda.gov)",
+      "WebFetch(domain:www.ema.europa.eu)",
+      "WebFetch(domain:www.mfds.go.kr)",
+      "WebFetch(domain:nedrug.mfds.go.kr)",
+      "WebFetch(domain:patents.google.com)",
+      "WebFetch(domain:worldwide.espacenet.com)",
+      "WebFetch(domain:www.kipris.or.kr)",
+      "WebFetch(domain:www.sec.gov)",
+      "WebFetch(domain:efts.sec.gov)",
+      "WebFetch(domain:investors.biontech.de)",
+      "WebFetch(domain:investors.modernatx.com)",
+      "WebFetch(domain:www.merck.com)",
+      "WebFetch(domain:www.roche.com)",
+      "WebFetch(domain:dart.fss.or.kr)",
+      "WebFetch(domain:www.ntis.go.kr)",
+      "WebFetch(domain:www.bioin.or.kr)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(mkdir:*)",
+      "Bash(wc:*)",
+      "Bash(jq:*)"
+    ]
+  }
+}
