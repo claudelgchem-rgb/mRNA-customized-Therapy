@@ -20,6 +20,7 @@ LEDGER = os.path.join(ROOT, "out", "evidence_ledger.jsonl")
 GRADES = os.path.join(ROOT, "out", "reliability_ledger.jsonl")
 
 BLOCKS = {
+    "O": (1, 99),
     "A1": (100, 199), "A2": (200, 299), "A3": (300, 399), "A4": (400, 499),
     "A5": (500, 599), "B1": (600, 699), "B2": (700, 799), "C1": (800, 899),
     "C2": (900, 999), "C3": (1000, 1099), "D1": (1100, 1199),

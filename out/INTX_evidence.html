@@ -1,0 +1,532 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>INTX 근거 카드 — 개인맞춤형 mRNA 항암치료제</title>
+<style>
+  :root {
+    --bg:#f6f7f9; --fg:#16191d; --mut:#5c6570; --line:#dfe3e8; --card:#fff;
+    --hi:#0f7b3f; --hib:#e6f4ec; --mid:#8a6100; --midb:#fdf3dd; --lo:#a32020; --lob:#fbe9e9;
+    --accent:#1d4ed8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#0f1216; --fg:#e7eaee; --mut:#9aa4b0; --line:#2a3138; --card:#171b21;
+      --hi:#5fd08d; --hib:#122b1d; --mid:#e8bf5a; --midb:#2e2512; --lo:#f08a8a; --lob:#331616;
+      --accent:#7ea6ff; }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font-size:15px; line-height:1.6;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo","Noto Sans KR",
+    "Malgun Gothic",sans-serif; }
+  header.top { padding:28px 20px 18px; border-bottom:1px solid var(--line); background:var(--card); }
+  .wrap { max-width:1080px; margin:0 auto; padding:0 20px; }
+  h1 { font-size:22px; margin:0 0 4px; letter-spacing:-.01em; }
+  .sub { color:var(--mut); font-size:13px; margin:0; }
+  .stats { display:flex; flex-wrap:wrap; gap:10px; margin:16px 0 0; }
+  .stat { background:var(--bg); border:1px solid var(--line); border-radius:10px;
+    padding:8px 14px; display:flex; align-items:baseline; gap:8px; }
+  .stat b { font-size:19px; }
+  .stat span { font-size:12px; color:var(--mut); }
+  .stat .pct { font-variant-numeric:tabular-nums; }
+  .g-상 { color:var(--hi); } .g-중 { color:var(--mid); } .g-하 { color:var(--lo); }
+  .controls { position:sticky; top:0; z-index:10; background:var(--card);
+    border-bottom:1px solid var(--line); padding:12px 20px; }
+  .controls .wrap { display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
+  input[type=search], select { font:inherit; font-size:13px; padding:7px 10px;
+    border:1px solid var(--line); border-radius:8px; background:var(--bg); color:var(--fg); }
+  input[type=search] { flex:1 1 240px; min-width:180px; }
+  #count { font-size:12px; color:var(--mut); margin-left:auto; white-space:nowrap; }
+  button.reset { font:inherit; font-size:13px; padding:7px 12px; border:1px solid var(--line);
+    border-radius:8px; background:var(--bg); color:var(--fg); cursor:pointer; }
+  main { padding:20px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px;
+    padding:16px 18px; margin:0 0 12px; scroll-margin-top:76px; }
+  .card:target { outline:2px solid var(--accent); }
+  .card-head { display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:8px; }
+  .rid { font-weight:700; font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+    color:var(--accent); text-decoration:none; font-size:14px; }
+  .badge { font-size:11px; padding:2px 8px; border-radius:99px; border:1px solid var(--line);
+    color:var(--mut); white-space:nowrap; }
+  .badge.g-상 { background:var(--hib); color:var(--hi); border-color:transparent; font-weight:700; }
+  .badge.g-중 { background:var(--midb); color:var(--mid); border-color:transparent; font-weight:700; }
+  .badge.g-하 { background:var(--lob); color:var(--lo); border-color:transparent; font-weight:700; }
+  .claim { margin:0 0 12px; font-weight:600; font-size:15px; }
+  .meta { border-top:1px dashed var(--line); padding-top:10px; }
+  .row { display:flex; gap:10px; font-size:13px; padding:2px 0; }
+  .row .k { flex:0 0 76px; color:var(--mut); }
+  .row .v { flex:1 1 auto; min-width:0; overflow-wrap:anywhere; }
+  .row .v.quote { color:var(--mut); font-style:italic; }
+  .row .v.warn { color:var(--lo); }
+  .src-url { color:var(--accent); }
+  .src-url.none { color:var(--mut); }
+  .conflict { display:inline-block; font-family:ui-monospace,monospace; font-size:12px;
+    padding:1px 6px; border-radius:6px; background:var(--lob); color:var(--lo); text-decoration:none; }
+  .hidden { display:none; }
+  .empty { text-align:center; color:var(--mut); padding:40px 0; }
+  footer { color:var(--mut); font-size:12px; padding:24px 20px 48px; }
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <h1>INTX 근거 카드 — mRNA 개인맞춤형 항암치료제</h1>
+  <p class="sub">총 <b>15</b>건의 근거. 규칙 3(신뢰도 독립 검증)에 따라 R 에이전트가 등급화.
+     <b>상</b> 등급 비중 <b>100.0%</b>. 보고서의 [R###] 태그는 이 페이지의 앵커와 연결됨.</p>
+  <div class="stats"><div class="stat"><b class="g-상">15</b><span>상 등급</span><span class="pct">100.0%</span></div>
+    <div class="stat"><b>3</b><span>모듈</span></div>
+    <div class="stat"><b>1</b><span>조사 에이전트</span></div>
+  </div>
+</div></header>
+
+<div class="controls"><div class="wrap">
+  <input type="search" id="q" placeholder="검색 — 주장·출처·발행처·주의사항 전문 검색" autocomplete="off">
+  <select id="fg"><option value="">전체 등급</option><option value="상">상 (15)</option></select>
+  <select id="fm"><option value="">전체 모듈</option><option value="M1">M1 기술스택 (2)</option><option value="M2">M2 임상근거 (12)</option><option value="M3">M3 제조·CMC (1)</option></select>
+  <select id="fa"><option value="">전체 에이전트</option><option value="O">O</option></select>
+  <select id="fs"><option value="">전체 출처유형</option><option value="peer_reviewed">peer-reviewed 원논문 (8)</option><option value="registry">임상시험 등록정보 (7)</option></select>
+  <button class="reset" id="reset">초기화</button>
+  <span id="count"></span>
+</div></div>
+
+<main><div class="wrap">
+
+<article class="card" id="R001"
+         data-grade="상" data-module="M2"
+         data-agent="O" data-stype="peer_reviewed"
+         data-q="r001 keynote-942 5년 업데이트에서 intismeran+pembrolizumab의 rfs hr은 0.510 (95% ci 0.294-0.887)이며, 데이터컷은 2025-12-15, 계획 추적기간 중앙값은 60.3개월(범위 50.5-76.4)이다 intismeran autogene plus pembrolizumab versus pembrolizumab alone in high-risk resected melanoma: 5-year update of the randomized phase iib keynote-942 study journal of clinical oncology 157명 무작위배정(병용 107, 단독 50). rfs hr 0.510, dmfs hr 0.411. doi:10.1200/jco-26-00835. 저자들이 &#x27;5년 분석은 기술적(descriptive)&#x27;이라고 명시 — 확증적 추론 근거로 쓸 수 없다 abstract, results  https://pubmed.ncbi.nlm.nih.gov/42223134/ o m2">
+  <header class="card-head">
+    <a class="rid" href="#R001">R001</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M2 임상근거</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">peer-reviewed 원논문</span>
+  </header>
+  <p class="claim">KEYNOTE-942 5년 업데이트에서 intismeran+pembrolizumab의 RFS HR은 0.510 (95% CI 0.294-0.887)이며, 데이터컷은 2025-12-15, 계획 추적기간 중앙값은 60.3개월(범위 50.5-76.4)이다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">Intismeran Autogene Plus Pembrolizumab Versus Pembrolizumab Alone in High-Risk Resected Melanoma: 5-Year Update of the Randomized Phase IIb KEYNOTE-942 Study</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">Journal of Clinical Oncology</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">2026-06-01</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">Abstract, Results</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://pubmed.ncbi.nlm.nih.gov/42223134/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/42223134/</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">157명 무작위배정(병용 107, 단독 50). RFS HR 0.510, DMFS HR 0.411.</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">doi:10.1200/JCO-26-00835. 저자들이 &#x27;5년 분석은 기술적(descriptive)&#x27;이라고 명시 — 확증적 추론 근거로 쓸 수 없다</span></div>
+    
+  </div>
+</article>
+
+<article class="card" id="R002"
+         data-grade="상" data-module="M2"
+         data-agent="O" data-stype="peer_reviewed"
+         data-q="r002 keynote-942 5년 업데이트의 전체생존(os) hr은 0.471이나 95% ci가 0.165-1.345로 1을 포함하여 통계적 유의성에 도달하지 못했다 intismeran autogene plus pembrolizumab versus pembrolizumab alone in high-risk resected melanoma: 5-year update of the randomized phase iib keynote-942 study journal of clinical oncology os hr 0.471 (95% ci 0.165-1.345) — &#x27;유리한 경향(favorable trend)&#x27;으로만 기술 부정 근거. os 이득은 아직 입증되지 않았다. n=157의 이벤트 수가 적어 ci가 매우 넓다 abstract, results  https://pubmed.ncbi.nlm.nih.gov/42223134/ o m2">
+  <header class="card-head">
+    <a class="rid" href="#R002">R002</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M2 임상근거</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">peer-reviewed 원논문</span>
+  </header>
+  <p class="claim">KEYNOTE-942 5년 업데이트의 전체생존(OS) HR은 0.471이나 95% CI가 0.165-1.345로 1을 포함하여 통계적 유의성에 도달하지 못했다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">Intismeran Autogene Plus Pembrolizumab Versus Pembrolizumab Alone in High-Risk Resected Melanoma: 5-Year Update of the Randomized Phase IIb KEYNOTE-942 Study</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">Journal of Clinical Oncology</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">2026-06-01</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">Abstract, Results</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://pubmed.ncbi.nlm.nih.gov/42223134/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/42223134/</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">OS HR 0.471 (95% CI 0.165-1.345) — &#x27;유리한 경향(favorable trend)&#x27;으로만 기술</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">부정 근거. OS 이득은 아직 입증되지 않았다. N=157의 이벤트 수가 적어 CI가 매우 넓다</span></div>
+    
+  </div>
+</article>
+
+<article class="card" id="R003"
+         data-grade="상" data-module="M2"
+         data-agent="O" data-stype="peer_reviewed"
+         data-q="r003 keynote-942 1차 분석(lancet 2024)에서 1차 평가변수인 rfs의 hr은 0.561 (95% ci 0.309-1.017), 양측 p=0.053으로 통상적 유의수준 0.05를 넘지 못했다 individualised neoantigen therapy mrna-4157 (v940) plus pembrolizumab versus pembrolizumab monotherapy in resected melanoma (keynote-942): a randomised, phase 2b study the lancet hr 0.561 (95% ci 0.309-1.017), 양측 p=0.053. 재발·사망 24/107(22%) vs 20/50(40%) 핵심 부정 근거. 널리 인용되는 &#x27;재발위험 44% 감소&#x27;는 1-0.561에서 나오나, 그 추정치의 신뢰구간은 1을 포함했다. open-label 설계 findings  https://pubmed.ncbi.nlm.nih.gov/38246194/ o m2">
+  <header class="card-head">
+    <a class="rid" href="#R003">R003</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M2 임상근거</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">peer-reviewed 원논문</span>
+  </header>
+  <p class="claim">KEYNOTE-942 1차 분석(Lancet 2024)에서 1차 평가변수인 RFS의 HR은 0.561 (95% CI 0.309-1.017), 양측 p=0.053으로 통상적 유의수준 0.05를 넘지 못했다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">Individualised neoantigen therapy mRNA-4157 (V940) plus pembrolizumab versus pembrolizumab monotherapy in resected melanoma (KEYNOTE-942): a randomised, phase 2b study</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">The Lancet</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">2024-02-17</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">Findings</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://pubmed.ncbi.nlm.nih.gov/38246194/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/38246194/</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">HR 0.561 (95% CI 0.309-1.017), 양측 p=0.053. 재발·사망 24/107(22%) vs 20/50(40%)</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">핵심 부정 근거. 널리 인용되는 &#x27;재발위험 44% 감소&#x27;는 1-0.561에서 나오나, 그 추정치의 신뢰구간은 1을 포함했다. open-label 설계</span></div>
+    
+  </div>
+</article>
+
+<article class="card" id="R004"
+         data-grade="상" data-module="M2"
+         data-agent="O" data-stype="peer_reviewed"
+         data-q="r004 keynote-942의 18개월 rfs는 병용군 79% (95% ci 69.0-85.6), 단독군 62% (46.9-74.3)이며 추적기간 중앙값은 각각 23개월과 24개월이었다 individualised neoantigen therapy mrna-4157 (v940) plus pembrolizumab versus pembrolizumab monotherapy in resected melanoma (keynote-942): a randomised, phase 2b study the lancet 18개월 rfs 79% vs 62% 단독군 95% ci 하한이 46.9%로 매우 넓다 — n=50의 한계 findings  https://pubmed.ncbi.nlm.nih.gov/38246194/ o m2">
+  <header class="card-head">
+    <a class="rid" href="#R004">R004</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M2 임상근거</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">peer-reviewed 원논문</span>
+  </header>
+  <p class="claim">KEYNOTE-942의 18개월 RFS는 병용군 79% (95% CI 69.0-85.6), 단독군 62% (46.9-74.3)이며 추적기간 중앙값은 각각 23개월과 24개월이었다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">Individualised neoantigen therapy mRNA-4157 (V940) plus pembrolizumab versus pembrolizumab monotherapy in resected melanoma (KEYNOTE-942): a randomised, phase 2b study</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">The Lancet</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">2024-02-17</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">Findings</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://pubmed.ncbi.nlm.nih.gov/38246194/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/38246194/</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">18개월 RFS 79% vs 62%</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">단독군 95% CI 하한이 46.9%로 매우 넓다 — N=50의 한계</span></div>
+    
+  </div>
+</article>
+
+<article class="card" id="R005"
+         data-grade="상" data-module="M2"
+         data-agent="O" data-stype="peer_reviewed"
+         data-q="r005 keynote-942는 open-label, 2:1 무작위배정 2b상이며 미국과 호주 사이트에서만 157명을 등록했다 individualised neoantigen therapy mrna-4157 (v940) plus pembrolizumab versus pembrolizumab monotherapy in resected melanoma (keynote-942): a randomised, phase 2b study the lancet open-label 무작위 2b상, 미국·호주 등록, 2019-07-18 ~ 2021-09-30 설계 한계: 비맹검이므로 재발 판정에 평가자 편향 가능. 인종·지역 다양성 제한으로 한국인 외삽 근거 부족 methods  https://pubmed.ncbi.nlm.nih.gov/38246194/ o m2">
+  <header class="card-head">
+    <a class="rid" href="#R005">R005</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M2 임상근거</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">peer-reviewed 원논문</span>
+  </header>
+  <p class="claim">KEYNOTE-942는 open-label, 2:1 무작위배정 2b상이며 미국과 호주 사이트에서만 157명을 등록했다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">Individualised neoantigen therapy mRNA-4157 (V940) plus pembrolizumab versus pembrolizumab monotherapy in resected melanoma (KEYNOTE-942): a randomised, phase 2b study</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">The Lancet</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">2024-02-17</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">Methods</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://pubmed.ncbi.nlm.nih.gov/38246194/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/38246194/</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">open-label 무작위 2b상, 미국·호주 등록, 2019-07-18 ~ 2021-09-30</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">설계 한계: 비맹검이므로 재발 판정에 평가자 편향 가능. 인종·지역 다양성 제한으로 한국인 외삽 근거 부족</span></div>
+    
+  </div>
+</article>
+
+<article class="card" id="R006"
+         data-grade="상" data-module="M1"
+         data-agent="O" data-stype="peer_reviewed"
+         data-q="r006 intismeran의 임상 용법은 근육주사 1 mg을 3주 간격 최대 9회이며, pembrolizumab은 정맥 200 mg을 3주 간격 최대 18회이다 intismeran autogene plus pembrolizumab versus pembrolizumab alone in high-risk resected melanoma: 5-year update journal of clinical oncology 근육주사 intismeran 1 mg q3w 9회 + 정맥 pembrolizumab 200 mg q3w 18회 cogs 계산의 기준 용량. 1 mg x 9회 = 환자당 원료 rna 총 9 mg abstract, methods  https://pubmed.ncbi.nlm.nih.gov/42223134/ o m1">
+  <header class="card-head">
+    <a class="rid" href="#R006">R006</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M1 기술스택</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">peer-reviewed 원논문</span>
+  </header>
+  <p class="claim">intismeran의 임상 용법은 근육주사 1 mg을 3주 간격 최대 9회이며, pembrolizumab은 정맥 200 mg을 3주 간격 최대 18회이다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">Intismeran Autogene Plus Pembrolizumab Versus Pembrolizumab Alone in High-Risk Resected Melanoma: 5-Year Update</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">Journal of Clinical Oncology</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">2026-06-01</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">Abstract, Methods</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://pubmed.ncbi.nlm.nih.gov/42223134/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/42223134/</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">근육주사 intismeran 1 mg q3w 9회 + 정맥 pembrolizumab 200 mg q3w 18회</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">COGS 계산의 기준 용량. 1 mg x 9회 = 환자당 원료 RNA 총 9 mg</span></div>
+    
+  </div>
+</article>
+
+<article class="card" id="R007"
+         data-grade="상" data-module="M2"
+         data-agent="O" data-stype="peer_reviewed"
+         data-q="r007 keynote-942에서 grade 3 이상 치료관련 이상반응은 병용군 25%, 단독군 18%였고 intismeran 관련 grade 4-5 사건은 없었다 individualised neoantigen therapy mrna-4157 (v940) plus pembrolizumab versus pembrolizumab monotherapy in resected melanoma (keynote-942): a randomised, phase 2b study the lancet grade&gt;=3 trae 25% vs 18%, 면역매개 이상반응은 양군 36%로 동일 안전성은 이 모달리티의 병목이 아님을 뒷받침 findings  https://pubmed.ncbi.nlm.nih.gov/38246194/ o m2">
+  <header class="card-head">
+    <a class="rid" href="#R007">R007</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M2 임상근거</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">peer-reviewed 원논문</span>
+  </header>
+  <p class="claim">KEYNOTE-942에서 Grade 3 이상 치료관련 이상반응은 병용군 25%, 단독군 18%였고 intismeran 관련 Grade 4-5 사건은 없었다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">Individualised neoantigen therapy mRNA-4157 (V940) plus pembrolizumab versus pembrolizumab monotherapy in resected melanoma (KEYNOTE-942): a randomised, phase 2b study</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">The Lancet</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">2024-02-17</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">Findings</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://pubmed.ncbi.nlm.nih.gov/38246194/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/38246194/</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">Grade&gt;=3 TRAE 25% vs 18%, 면역매개 이상반응은 양군 36%로 동일</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">안전성은 이 모달리티의 병목이 아님을 뒷받침</span></div>
+    
+  </div>
+</article>
+
+<article class="card" id="R008"
+         data-grade="상" data-module="M1"
+         data-agent="O" data-stype="peer_reviewed"
+         data-q="r008 tesla 컨소시엄은 공유된 종양 시퀀싱 데이터로 예측한 608개 에피토프를 환자 대응 검체에서 t세포 결합으로 검증했고, 제시·인식 관련 특징을 통합한 모델이 비면역원성 펩타이드의 98%를 걸러내면서 precision 0.70 이상을 달성했다 key parameters of tumor epitope immunogenicity revealed through a consortium approach improve neoantigen prediction cell 608개 에피토프 검증, 독립 코호트 310개로 재검증 신항원 예측의 정확도 기준선. 98% 필터링은 &#x27;비면역원성 제거율&#x27;이지 &#x27;면역원성 적중률&#x27;이 아니다 — 혼동 금지 abstract  https://pubmed.ncbi.nlm.nih.gov/33038342/ o m1">
+  <header class="card-head">
+    <a class="rid" href="#R008">R008</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M1 기술스택</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">peer-reviewed 원논문</span>
+  </header>
+  <p class="claim">TESLA 컨소시엄은 공유된 종양 시퀀싱 데이터로 예측한 608개 에피토프를 환자 대응 검체에서 T세포 결합으로 검증했고, 제시·인식 관련 특징을 통합한 모델이 비면역원성 펩타이드의 98%를 걸러내면서 precision 0.70 이상을 달성했다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">Key Parameters of Tumor Epitope Immunogenicity Revealed Through a Consortium Approach Improve Neoantigen Prediction</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">Cell</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">2020-10-29</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">Abstract</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://pubmed.ncbi.nlm.nih.gov/33038342/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/33038342/</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">608개 에피토프 검증, 독립 코호트 310개로 재검증</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">신항원 예측의 정확도 기준선. 98% 필터링은 &#x27;비면역원성 제거율&#x27;이지 &#x27;면역원성 적중률&#x27;이 아니다 — 혼동 금지</span></div>
+    
+  </div>
+</article>
+
+<article class="card" id="R009"
+         data-grade="상" data-module="M2"
+         data-agent="O" data-stype="registry"
+         data-q="r009 interpath-007 (nct06295809, 피부 편평세포암 (신)보조 intismeran+pembrolizumab)은 terminated 상태이며 등록정보상 중단 사유는 &#x27;business reasons&#x27;, 실제 등록 46명, 최종 갱신일은 2026-05-08이다 a study of (neo)adjuvant intismeran autogene (v940) and pembrolizumab in cutaneous squamous cell carcinoma clinicaltrials.gov 상태 terminated, 중단사유 &#x27;business reasons&#x27;, 실제 등록 46명 핵심 부정 근거. 안전성·무효가 아닌 &#x27;사업적 사유&#x27;로 3상 프로그램 중 1개 적응증이 탈락 statusmodule.whystopped  https://clinicaltrials.gov/study/nct06295809 o m2">
+  <header class="card-head">
+    <a class="rid" href="#R009">R009</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M2 임상근거</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">임상시험 등록정보</span>
+  </header>
+  <p class="claim">INTerpath-007 (NCT06295809, 피부 편평세포암 (신)보조 intismeran+pembrolizumab)은 TERMINATED 상태이며 등록정보상 중단 사유는 &#x27;Business reasons&#x27;, 실제 등록 46명, 최종 갱신일은 2026-05-08이다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">A Study of (Neo)Adjuvant Intismeran Autogene (V940) and Pembrolizumab in Cutaneous Squamous Cell Carcinoma</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">ClinicalTrials.gov</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">2026-05-08</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">statusModule.whyStopped</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://clinicaltrials.gov/study/NCT06295809" target="_blank" rel="noopener">https://clinicaltrials.gov/study/NCT06295809</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">상태 TERMINATED, 중단사유 &#x27;Business reasons&#x27;, 실제 등록 46명</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">핵심 부정 근거. 안전성·무효가 아닌 &#x27;사업적 사유&#x27;로 3상 프로그램 중 1개 적응증이 탈락</span></div>
+    
+  </div>
+</article>
+
+<article class="card" id="R010"
+         data-grade="상" data-module="M2"
+         data-agent="O" data-stype="registry"
+         data-q="r010 imcode004 (nct06534983, autogene cevumeran + nivolumab, 근침윤성 요로상피암 2상)은 2026-08-04 갱신 기준 recruiting 상태이며 목표 등록 62명, 1차완료 예정일은 2027-11-10이다 a study to evaluate the efficacy and safety of autogene cevumeran with nivolumab versus nivolumab alone clinicaltrials.gov 상태 recruiting, 목표 62명, 1차완료 2027-11-10 의뢰 브리프의 &#x27;치료환경 변화로 중단&#x27; 기술과 불일치. 등록정보가 우선한다 statusmodule.overallstatus  https://clinicaltrials.gov/study/nct06534983 o m2">
+  <header class="card-head">
+    <a class="rid" href="#R010">R010</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M2 임상근거</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">임상시험 등록정보</span>
+  </header>
+  <p class="claim">IMcode004 (NCT06534983, autogene cevumeran + nivolumab, 근침윤성 요로상피암 2상)은 2026-08-04 갱신 기준 RECRUITING 상태이며 목표 등록 62명, 1차완료 예정일은 2027-11-10이다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">A Study to Evaluate the Efficacy and Safety of Autogene Cevumeran With Nivolumab Versus Nivolumab Alone</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">ClinicalTrials.gov</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">2026-08-04</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">statusModule.overallStatus</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://clinicaltrials.gov/study/NCT06534983" target="_blank" rel="noopener">https://clinicaltrials.gov/study/NCT06534983</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">상태 RECRUITING, 목표 62명, 1차완료 2027-11-10</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">의뢰 브리프의 &#x27;치료환경 변화로 중단&#x27; 기술과 불일치. 등록정보가 우선한다</span></div>
+    
+  </div>
+</article>
+
+<article class="card" id="R011"
+         data-grade="상" data-module="M2"
+         data-agent="O" data-stype="registry"
+         data-q="r011 bnt122-01 (nct04486378, ctdna 양성 대장암 보조 autogene cevumeran vs 관찰)은 active_not_recruiting 상태로 목표 327명, 1차평가변수는 dfs, 1차완료 예정 2026-11, 전체완료 예정 2030-08이다 a phase ii clinical trial comparing the efficacy of ro7198457 versus watchful waiting in patients with ctdna-positive colorectal cancer clinicaltrials.gov active_not_recruiting, 327명, dfs, 1차완료 2026-11 이 모달리티의 첫 무작위 확증적 readout 후보. 전체완료 2030-08 은 최종 os까지의 기간 statusmodule  https://clinicaltrials.gov/study/nct04486378 o m2">
+  <header class="card-head">
+    <a class="rid" href="#R011">R011</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M2 임상근거</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">임상시험 등록정보</span>
+  </header>
+  <p class="claim">BNT122-01 (NCT04486378, ctDNA 양성 대장암 보조 autogene cevumeran vs 관찰)은 ACTIVE_NOT_RECRUITING 상태로 목표 327명, 1차평가변수는 DFS, 1차완료 예정 2026-11, 전체완료 예정 2030-08이다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">A Phase II Clinical Trial Comparing the Efficacy of RO7198457 Versus Watchful Waiting in Patients With ctDNA-positive Colorectal Cancer</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">ClinicalTrials.gov</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">2026-07-15</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">statusModule</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://clinicaltrials.gov/study/NCT04486378" target="_blank" rel="noopener">https://clinicaltrials.gov/study/NCT04486378</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">ACTIVE_NOT_RECRUITING, 327명, DFS, 1차완료 2026-11</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">이 모달리티의 첫 무작위 확증적 readout 후보. 전체완료 2030-08 은 최종 OS까지의 기간</span></div>
+    
+  </div>
+</article>
+
+<article class="card" id="R012"
+         data-grade="상" data-module="M2"
+         data-agent="O" data-stype="registry"
+         data-q="r012 clinicaltrials.gov 전수 조회 결과 intismeran 또는 autogene cevumeran 관련 시험 12건에 한국 사이트가 포함되어 있으며, interpath-001(nct05933577)에는 국내 5개 기관이 참여한다 clinicaltrials.gov api v2 registry snapshot (23개 쿼리, 고유 577건) clinicaltrials.gov 한국 사이트 포함 12건. interpath-001 총 165개 사이트 중 한국 5곳 재현: scripts/fetch_registry_snapshot.py. 한국은 개발 주체가 아닌 &#x27;임상 사이트 제공자&#x27;로 참여 중 contactslocationsmodule.locations[].country  https://clinicaltrials.gov/api/v2/studies?query.term=neoantigen o m2">
+  <header class="card-head">
+    <a class="rid" href="#R012">R012</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M2 임상근거</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">임상시험 등록정보</span>
+  </header>
+  <p class="claim">ClinicalTrials.gov 전수 조회 결과 intismeran 또는 autogene cevumeran 관련 시험 12건에 한국 사이트가 포함되어 있으며, INTerpath-001(NCT05933577)에는 국내 5개 기관이 참여한다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">ClinicalTrials.gov API v2 registry snapshot (23개 쿼리, 고유 577건)</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">ClinicalTrials.gov</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">2026-08-10</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">contactsLocationsModule.locations[].country</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://clinicaltrials.gov/api/v2/studies?query.term=neoantigen" target="_blank" rel="noopener">https://clinicaltrials.gov/api/v2/studies?query.term=neoantigen</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">한국 사이트 포함 12건. INTerpath-001 총 165개 사이트 중 한국 5곳</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">재현: scripts/fetch_registry_snapshot.py. 한국은 개발 주체가 아닌 &#x27;임상 사이트 제공자&#x27;로 참여 중</span></div>
+    
+  </div>
+</article>
+
+<article class="card" id="R013"
+         data-grade="상" data-module="M2"
+         data-agent="O" data-stype="registry"
+         data-q="r013 개인맞춤·신항원 항암백신 시험 중 중단 사유가 기재된 23건을 분류한 결과, 안전성을 사유로 한 중단은 0건, 효능부족·무효를 사유로 한 중단도 0건이며, 모집 실패 6건(26%), 자금 중단 5건(22%), 제조 실패·중단 3건(13%), 사업적 판단 3건(13%)이었다 clinicaltrials.gov whystopped 필드 분류 (577건 스냅샷 기반) clinicaltrials.gov 중단 23건 중 안전성 0건, 효능부족 0건. 최상위 사유는 모집 실패와 자금 중단 q4 직결. 재현: scripts/analyze_failures.py. 단, 스폰서가 효능부족을 &#x27;사업적 판단&#x27;으로 기재할 유인이 있어 생존자 편향 존재 — 단정 금지 statusmodule.whystopped  https://clinicaltrials.gov/api/v2/studies?query.term=neoantigen&amp;filter.overallstatus=terminated,withdrawn,suspended o m2">
+  <header class="card-head">
+    <a class="rid" href="#R013">R013</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M2 임상근거</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">임상시험 등록정보</span>
+  </header>
+  <p class="claim">개인맞춤·신항원 항암백신 시험 중 중단 사유가 기재된 23건을 분류한 결과, 안전성을 사유로 한 중단은 0건, 효능부족·무효를 사유로 한 중단도 0건이며, 모집 실패 6건(26%), 자금 중단 5건(22%), 제조 실패·중단 3건(13%), 사업적 판단 3건(13%)이었다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">ClinicalTrials.gov whyStopped 필드 분류 (577건 스냅샷 기반)</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">ClinicalTrials.gov</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">2026-08-10</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">statusModule.whyStopped</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://clinicaltrials.gov/api/v2/studies?query.term=neoantigen&amp;filter.overallStatus=TERMINATED,WITHDRAWN,SUSPENDED" target="_blank" rel="noopener">https://clinicaltrials.gov/api/v2/studies?query.term=neoantigen&amp;filter.overallStatus=TERMINATED,WITHDRAWN,SUSPENDED</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">중단 23건 중 안전성 0건, 효능부족 0건. 최상위 사유는 모집 실패와 자금 중단</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">Q4 직결. 재현: scripts/analyze_failures.py. 단, 스폰서가 효능부족을 &#x27;사업적 판단&#x27;으로 기재할 유인이 있어 생존자 편향 존재 — 단정 금지</span></div>
+    
+  </div>
+</article>
+
+<article class="card" id="R014"
+         data-grade="상" data-module="M3"
+         data-agent="O" data-stype="registry"
+         data-q="r014 nct03121677(개인맞춤 종양백신+pd-1 차단)은 &#x27;백신 제조가 중단되었다(vaccine manufacturing has been suspended)&#x27;는 사유로 등록 4명 시점에 terminated 되었다 personalized tumor vaccine strategy and pd-1 blockade clinicaltrials.gov 중단 사유: 백신 제조 중단 제조가 임상 실패의 직접 원인이 된 실증 사례 — q2(병목) 근거 statusmodule.whystopped  https://clinicaltrials.gov/study/nct03121677 o m3">
+  <header class="card-head">
+    <a class="rid" href="#R014">R014</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M3 제조·CMC</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">임상시험 등록정보</span>
+  </header>
+  <p class="claim">NCT03121677(개인맞춤 종양백신+PD-1 차단)은 &#x27;백신 제조가 중단되었다(Vaccine manufacturing has been suspended)&#x27;는 사유로 등록 4명 시점에 TERMINATED 되었다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">Personalized Tumor Vaccine Strategy and PD-1 Blockade</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">ClinicalTrials.gov</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">unknown</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">statusModule.whyStopped</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://clinicaltrials.gov/study/NCT03121677" target="_blank" rel="noopener">https://clinicaltrials.gov/study/NCT03121677</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">중단 사유: 백신 제조 중단</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">제조가 임상 실패의 직접 원인이 된 실증 사례 — Q2(병목) 근거</span></div>
+    
+  </div>
+</article>
+
+<article class="card" id="R015"
+         data-grade="상" data-module="M2"
+         data-agent="O" data-stype="registry"
+         data-q="r015 ivac-rcc-001 (nct05641545, 신세포암 보조 개인맞춤 신항원 백신)은 &#x27;참여자 모집 저조&#x27;를 사유로 등록 1명 시점에 조기 중단되었다 ivac-rcc-001: a personalized neoantigen vaccine as adjuvant therapy clinicaltrials.gov 모집 저조로 조기 중단, 등록 1명 보조요법 세팅에서 개인맞춤 백신의 환자 등록 난이도를 보여주는 사례 statusmodule.whystopped  https://clinicaltrials.gov/study/nct05641545 o m2">
+  <header class="card-head">
+    <a class="rid" href="#R015">R015</a>
+    <span class="badge g-상">상</span>
+    <span class="badge mod">M2 임상근거</span>
+    <span class="badge agent">O</span>
+    <span class="badge stype">임상시험 등록정보</span>
+  </header>
+  <p class="claim">IVAC-RCC-001 (NCT05641545, 신세포암 보조 개인맞춤 신항원 백신)은 &#x27;참여자 모집 저조&#x27;를 사유로 등록 1명 시점에 조기 중단되었다</p>
+  <div class="meta">
+    <div class="row"><span class="k">출처</span><span class="v ">IVAC-RCC-001: A Personalized Neoantigen Vaccine as Adjuvant Therapy</span></div>
+    <div class="row"><span class="k">발행처</span><span class="v ">ClinicalTrials.gov</span></div>
+    <div class="row"><span class="k">발행일</span><span class="v ">unknown</span></div>
+    <div class="row"><span class="k">위치</span><span class="v ">statusModule.whyStopped</span></div>
+    <div class="row"><span class="k">URL</span><span class="v"><a class="src-url" href="https://clinicaltrials.gov/study/NCT05641545" target="_blank" rel="noopener">https://clinicaltrials.gov/study/NCT05641545</a></span></div>
+    <div class="row"><span class="k">원문 요지</span><span class="v quote">모집 저조로 조기 중단, 등록 1명</span></div>
+    
+    
+    <div class="row"><span class="k">주의사항</span><span class="v warn">보조요법 세팅에서 개인맞춤 백신의 환자 등록 난이도를 보여주는 사례</span></div>
+    
+  </div>
+</article>
+<p class="empty hidden" id="empty">조건에 맞는 근거가 없습니다.</p>
+</div></main>
+
+<footer><div class="wrap">
+  INTX harness · 근거 원장 <code>evidence_ledger.jsonl</code> 로부터 자동 생성 ·
+  등급 기준: 상 = peer-reviewed·공시·규제문서·등록정보·등록특허 / 중 = 학회초록·보도자료·1차취재 산업지 / 하 = 2차요약·시장조사 요약본
+</div></footer>
+
+<script>
+(function () {
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.card'));
+  var q = document.getElementById('q'), fg = document.getElementById('fg'),
+      fm = document.getElementById('fm'), fa = document.getElementById('fa'),
+      fs = document.getElementById('fs'), count = document.getElementById('count'),
+      empty = document.getElementById('empty');
+
+  function apply() {
+    var t = q.value.trim().toLowerCase(),
+        vg = fg.value, vm = fm.value, va = fa.value, vs = fs.value, n = 0;
+    for (var i = 0; i < cards.length; i++) {
+      var c = cards[i];
+      var ok = (!vg || c.dataset.grade === vg)
+            && (!vm || c.dataset.module === vm)
+            && (!va || c.dataset.agent === va)
+            && (!vs || c.dataset.stype === vs)
+            && (!t || c.dataset.q.indexOf(t) !== -1);
+      c.classList.toggle('hidden', !ok);
+      if (ok) n++;
+    }
+    count.textContent = n + ' / ' + cards.length + ' 건';
+    empty.classList.toggle('hidden', n !== 0);
+  }
+
+  [q, fg, fm, fa, fs].forEach(function (el) {
+    el.addEventListener('input', apply);
+    el.addEventListener('change', apply);
+  });
+  document.getElementById('reset').addEventListener('click', function () {
+    q.value = ''; fg.value = ''; fm.value = ''; fa.value = ''; fs.value = ''; apply();
+  });
+  apply();
+
+  // 해시로 들어온 카드는 필터에 가려지지 않도록 초기화 후 스크롤
+  if (location.hash) {
+    var el = document.querySelector(location.hash);
+    if (el) { el.classList.remove('hidden'); el.scrollIntoView(); }
+  }
+})();
+</script>
+</body>
+</html>
