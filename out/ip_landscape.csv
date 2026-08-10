@@ -1,0 +1,48 @@
+﻿label,value,unit,caveat,rid,agent
+"US 8,278,036 B2 (UPenn Kariko/Weissman 원천)",2027-05-24,조정만료일(PTA 약 276일 포함),"우선일 2005-08-23, 출원일 2006-08-21. 패밀리 중 최장수 미국특허",R1101,D1
+"US 11,389,547 B2 (UPenn 계속출원, mo5U)",2026-08-21,조정만료일,조사시점 2026-08-06 기준 잔여 약 2주. PTA 없음,R1103,D1
+"US 11,801,314 B2 (UPenn 계속출원)",2026-08-21,조정만료일,등록 2023-10-31로 등록 후 존속기간 3년 미만,R1104,D1
+"US 8,835,108 B2 (UPenn, m5C 방법)",2026-08-21,조정만료일,청구항 1은 방법 청구항,R1105,D1
+"US 9,012,219 B2 (UPenn, 정제 modified RNA/리프로그래밍)",2030-12-07,조정만료일,패밀리 최장수이나 청구범위가 iPS 리프로그래밍에 한정되어 백신 제조에 미치지 않음,R1106,D1
+EP 2 578 685 B1 (UPenn 유럽),2026-08-21,만료일,유럽은 PTA 없음. SPC 연장 가능성은 미확인,R1107,D1
+"Moderna US 10,898,574 B2 (m1Psi mRNA-LNP 조성물)",2032-04-02,조정만료일,우선일 2011-03-31. 청구항 2가 조성물 청구항으로 완제품을 직접 포섭,R1118,D1
+"BioNTech/TRON US 10,738,355 B2 (개인맞춤 백신 제조방법)",2032-05-23,조정만료일,우선일 2011-05-24. Layer 2 최다 저지력 청구항,R1137,D1
+Gritstone EDGE KR 10-2729393 B1 (한국 등록),2038-06-08,만료예정일,"2024-11-13 등록, 상태 Active. 한국 진입자 최대 Layer 1 장벽",R1126,D1
+Gritstone EDGE EP 3 635 594 B1,2038-06-08,만료예정일,2024-10-09 등록,R1128,D1
+"CureVac US 10,080,809 B2 (5'TOP UTR)",2033-03-27,명목 만료일,실제 법적상태는 'Expired - Fee Related'로 유지료 미납 소멸,R1140,D1
+Moderna CellScript 서브라이선스 선급금,22000000,USD,"2017-06-26 효력발생, 전세계 비독점",R1111,D1
+Moderna CellScript 마일스톤 총액 (Table A),25500000,USD,로열티율은 계약서상 비공개(redacted),R1111,D1
+BioNTech MRT-CellScript 개발 마일스톤 상한,26000000,USD (약),20-F 공시 기준,R1114,D1
+BioNTech MRT-CellScript 로열티율,low to mid-single digit,% of net sales,필드에 따라 상이. 최종 특허 만료 시 의무 소멸,R1114,D1
+Gritstone 잔여자산 전체 매각가 (EDGE IP 포함),21250000,USD,2024-12-23 Seattle Project Corp 인수. Layer 1 알고리즘 IP 시장가치 상한 시사,R1132,D1
+Hercules Capital 기계장치 credit bid,3000000,USD,2024-12-20,R1132,D1
+Gritstone 인력 축소,119 -> 6,명,파산신청 시점 대비 2025년 초,R1133,D1
+PTAB 무효 판단 대상 Moderna 특허,"US 10,933,127 및 US 10,702,600",특허 2건 전 청구항 unpatentable,"2025-03-05 결정, Moderna 2025-05-06 항소로 미확정",R1120,D1
+BioNTech CureVac 인수 완료일,2025-12-15,date,2025-06-12 발표된 약 12.5억 달러 전량주식교환의 완결,R1145,D1
+Moderna EP 3 718 565 B1 취소 확정일,2026-01-27,date,EPO 기술심판부가 이의부의 취소결정을 확정,R1122,D1
+Moderna EP 3 590 949 B1 독일 침해 인정일,2025-03-05,date,뒤셀도르프 지방법원 1심. 항소심 구두심리 2026년 9월 예정,R1123,D1
+UPenn 미국 패밀리 등록특허 수,9,건 이상,"US8278036, 9012219, 8691966, 8748089, 8835108, 9750824, 10232055, 11389547, 11801314",R1109,D1
+Moderna→Arbutus/Genevant 무조건 합의금(실지급),"950,000,000",USD,"2026-07-08 실제 지급 완료. Arbutus 몫은 약 1.78억 달러(소송비 상환 포함), 나머지는 Genevant",R1218,D2
+Moderna 조건부 추가 합의금(§1498 항소 결과 연동),"1,300,000,000",USD,CAFC 26-1581 결과에 따라 전액·비례·0 중 결정. 이후 번복 시 이자와 함께 반환 의무,R1218,D2
+Moderna-Arbutus 분쟁 총 최대 지급액,"2,250,000,000",USD,무조건 9.5억 + 조건부 13억. [EST] 단순 합산,R1218,D2
+§1498 분쟁 대상 도즈(Disputed Doses),"493,757,200",도즈,"미국 정부 직원에게 직접 가지 않은 C-100 계약 물량. 원고 승소, Moderna 항소 중",R1223,D2
+§1498로 Moderna가 면책된 도즈,"6,244,340",도즈,미국 정부 직원에게 직접 투여된 물량. 이 부분은 Moderna 승소 확정,R1223,D2
+BioNTech의 CureVac N.V. 인수 총 대가,400.1,백만 EUR,"2025-12-15 클로징, 주식교환 공개매수, 최종 응모율 86.75%",R1259,D2
+CureVac 인수 시 인식된 무형자산(IP·라이선스 중심),240.3,백만 EUR,예비 PPA로 변동 가능하다고 명시,R1259,D2
+Arbutus가 수령한 합의금 지분,178,백만 USD,Genevant 라이선스상 20% + 소송비 상환. 별도로 Genevant 지분 약 16% 보유,R1218,D2
+Arbutus LNP 원천특허 US11141378B2/US8058069B2 예상만료일,2029-04-15,date,PTE/PTA 반영 전 Google Patents 산정치. 특허별 개별 확인 필요,R1216,D2
+CureVac TFF 제조공정 특허 US11667910B2 예상만료일,2036-05-30,date,동일 패밀리 US10760070B2는 2036-07-10,R1242,D2
+Acuitas ionizable lipid US10221127B2 예상만료일,2036-06-29,date,"ALC-0315 계열 화합물 마쿠쉬 클레임, 청구항 51개",R1226,D2
+TriLink CleanCap US10913768B2 예상만료일,2036-09-20,date,모특허 US10494399B2도 동일. 2022~2023 우선일 후속 출원으로 절벽 연장 시도 중,R1200,D2
+Moderna T7 RNAP 변이체 US12195778B2 예상만료일,2038-08-17,date,방법 클레임. 2세대 US20250250551A1(물건 클레임)은 미등록 계류,R1239,D2
+ARCA 원천특허 US7074596B2 만료일,2023-06-20,date,법적 상태 'Expired - Lifetime'. 기본형 ARCA는 자유 실시 가능,R1206,D2
+ST팜 SmartCap KR102366490B1 예상만료일,2041-10-19,date,"우선일 2020-10-20, 등록 2022-02-23",R1203,D2
+Arbutus '069 청구항 1의 양이온지질 몰비 범위,50-65,mol%,"인지질 4-10 mol%, 콜레스테롤 30-40 mol%, conjugated lipid 0.5-2 mol%",R1215,D2
+Arbutus '378 청구항 1의 PEG-지질 몰비 범위,0.1-2,mol%,'consisting of'로 폐쇄 한정 → 2 mol% 초과 PEG-지질이 회피 후보,R1216,D2
+CureVac가 Moderna에 주장한 특허 건수,10,건,TFF 제조 5건 + mRNA 안정화 1건 + SARS-CoV-2 조성물 4건 (D.Del. 1:26-cv-00475),R1245,D2
+GSK가 Pfizer/BioNTech에 주장한 미국 특허 건수,8,건,최초 5건 + 2024-08-14 추가 3건. 배심재판 2027년 6월 예정,R1227,D2
+Arbutus v. Moderna 소송 기간,4.0,년,2022-02-28 제소 → 2026-03-04 동의판결. docket 758건. 양측 각자 비용 부담,R1276,D2
+Penn Modified mRNA Patents 연구용 판매 로열티율,mid-single digits,% of net sales,"치료·예방·진단 용도는 low single digits. Moderna 10-K 문언 그대로, 정확한 수치는 비공개",R1287,D2
+CureVac TFF 특허 청구항 1의 RNA 길이 한정,500-10000,nucleotides,"US11667910B2 기준. US11834651B2/US12221605B2는 '15,000 nt 이하'로 더 넓음",R1243,D2
+Moderna 암항원 치료 프로그램 특허 예상만료,2043,year,PTA/PTE 및 terminal disclaimer 제외한 회사 자체 추정치,R1289,D2
+Replicate Bioscience saRNA 특허 중 한국 출원 비중,7/17,건,Google Patents 검색 기준. 개별 등록 여부·청구범위 미확인,R1235,D2

@@ -1,0 +1,41 @@
+[
+ {
+  "title": "RNA containing modified nucleosides and methods of use thereof",
+  "assignee_title": "The Trustees of the University of Pennsylvania",
+  "filing_date": "08/21/2006",
+  "publication_date": "10/02/2012",
+  "application_number": "11/990646",
+  "assignee": "The Trustees of the University of Pennsylvania",
+  "claim_1": "1. A method for inducing a mammalian cell to produce a protein of interest comprising: contacting said mammalian cell with in vitro-synthesized modified RNA encoding a protein of interest, wherein said in vitro-synthesized modified RNA comprises the modified nucleoside pseudouridine.",
+  "patent": "US8278036",
+  "layer": "L3 변형뉴클레오사이드",
+  "note": "UPenn Kariko/Weissman 원천 (슈도우리딘)",
+  "source_url": "https://www.freepatentsonline.com/8278036.html"
+ },
+ {
+  "title": "RNA containing modified nucleosides and methods of use thereof",
+  "assignee_title": "The Trustees of the University of Pennsylvania",
+  "filing_date": "03/12/2019",
+  "publication_date": "07/19/2022",
+  "application_number": "16/299202",
+  "assignee": "The Trustees of the University of Pennsylvania",
+  "claim_1": "1. A method comprising: replacing at least one uridine nucleotide of in vitro-synthesized RNA, comprising an open reading frame that encodes a recombinant protein of interest, with a nucleotide comprising the modified nucleoside 5-methoxyuridine (mo 5 U), thereby generating in vitro-synthesized RNA comprising mo 5 U in place of the at least one uridine nucleotide.",
+  "patent": "US11389547",
+  "layer": "L3 변형뉴클레오사이드",
+  "note": "UPenn 계속출원",
+  "source_url": "https://www.freepatentsonline.com/11389547.html"
+ },
+ {
+  "title": "RNA containing modified nucleosides and methods of use thereof",
+  "assignee_title": "The Trustees of the University of Pennsylvania",
+  "filing_date": "03/15/2013",
+  "publication_date": "09/16/2014",
+  "application_number": "13/839023",
+  "assignee": "The Trustees of the University of Pennsylvania",
+  "claim_1": "1. A method for inducing a mammalian cell to produce a protein of interest, the method comprising: contacting said mammalian cell with an in vitro-synthesized modified RNA encoding the protein of interest, wherein the in vitro-synthesized modified RNA encoding the protein of interest is translated by the cell, and wherein said in vitro-synthesized modified-RNA comprises the modified nucleoside 5-methylcytidine (m 5 C).",
+  "patent": "US8835108",
+  "layer": "L3 변형뉴클레오사이드",
+  "note": "UPenn m5C 방법",
+  "source_url": "https://www.freepatentsonline.com/8835108.html"
+ }
+]
