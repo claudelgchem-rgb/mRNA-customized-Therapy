@@ -1,0 +1,999 @@
+{"rid": "R001", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R002", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R003", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R004", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R005", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R006", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R007", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R008", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R009", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R010", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R011", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R012", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R013", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R014", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R015", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R016", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R017", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R018", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R019", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "unchecked", "url_code": null, "record_type": "evidence"}
+{"rid": "R020", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "unchecked", "url_code": null, "record_type": "evidence"}
+{"rid": "R021", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "unchecked", "url_code": null, "record_type": "evidence"}
+{"rid": "R022", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "unchecked", "url_code": null, "record_type": "evidence"}
+{"rid": "R100", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R101", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R102", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R103", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R104", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R105", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R106", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R107", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R108", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R109", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R110", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R111", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R112", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R113", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R114", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R115", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R116", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R117", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R118", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R119", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R120", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R121", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R122", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R123", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R124", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R125", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R126", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R127", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R128", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R129", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R130", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R131", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R132", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R133", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R134", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R135", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R136", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R137", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R138", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R139", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R140", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R141", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R142", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R143", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R144", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R145", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R146", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R147", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R148", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R149", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R150", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R151", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R152", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R153", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R154", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R155", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R156", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R157", "reliability": "중", "reliability_rationale": "조사 절차 기록(접근 시도·실패)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "process", "downgrade_reason": "접근 시도·실패 기록은 사실 근거가 아님(상→중)"}
+{"rid": "R158", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R159", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R160", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'company_filing'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R161", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R162", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R163", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R164", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R165", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R166", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R167", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R168", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R169", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R170", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R171", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R172", "reliability": "하", "reliability_rationale": "2차 요약·블로그", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence", "downgrade_reason": "2차 요약 매체(중→하)"}
+{"rid": "R173", "reliability": "하", "reliability_rationale": "2차 요약·블로그", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence", "downgrade_reason": "2차 요약 매체(중→하)"}
+{"rid": "R174", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R175", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'peer_reviewed'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R176", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R177", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R178", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R179", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R180", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R181", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R200", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R201", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R202", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R203", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R204", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R205", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R206", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R207", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R208", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R209", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R210", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R211", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R212", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R213", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R214", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R215", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R216", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R217", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R218", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R219", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R220", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R221", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R222", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R223", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R224", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R225", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R226", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R227", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R228", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R229", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R230", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R231", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R232", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R233", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R234", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R235", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R236", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R237", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R238", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R239", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R240", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R241", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R242", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R243", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R244", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R245", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R246", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R247", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R248", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R249", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R250", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R251", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R252", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R253", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R254", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R255", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R256", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R257", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R258", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R259", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R260", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R261", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R262", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R263", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R264", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R265", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R266", "reliability": "상", "reliability_rationale": "SEC 제출 문서에 첨부된 보도자료(Ex-99.1 등)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R267", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R268", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R269", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R270", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R271", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R300", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R301", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R302", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R303", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R304", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R305", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R306", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R307", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 429, "record_type": "evidence"}
+{"rid": "R308", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 429, "record_type": "evidence"}
+{"rid": "R309", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 429, "record_type": "evidence"}
+{"rid": "R310", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 429, "record_type": "evidence"}
+{"rid": "R311", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 429, "record_type": "evidence"}
+{"rid": "R312", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R313", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R314", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R315", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R316", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R317", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R318", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R319", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R320", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R321", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R322", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R323", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R324", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R325", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R326", "reliability": "중", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR) — 단, 재인용 경유", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence", "downgrade_reason": "언론·요약 서비스 재인용(상→중). 원문 미확인"}
+{"rid": "R327", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R328", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R329", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R330", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R331", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R332", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R333", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R334", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R335", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R336", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R337", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R338", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R339", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R340", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R341", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R342", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R343", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R344", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R345", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R346", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R347", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R348", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R349", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R350", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R351", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R352", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R353", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R354", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R355", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R356", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R357", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R358", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R359", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R360", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R361", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R362", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R363", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R364", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R365", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R366", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R367", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R368", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R369", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R370", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R371", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R372", "reliability": "중", "reliability_rationale": "조사 절차 기록(접근 시도·실패)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "process", "downgrade_reason": "접근 시도·실패 기록은 사실 근거가 아님(상→중)"}
+{"rid": "R373", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R374", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R375", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 429, "record_type": "evidence"}
+{"rid": "R376", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R377", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R378", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R379", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R380", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R400", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R401", "reliability": "중", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등) — 단, 재인용 경유", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence", "downgrade_reason": "언론·요약 서비스 재인용(상→중). 원문 미확인"}
+{"rid": "R402", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R403", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R404", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R405", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R406", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R407", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R408", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R409", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R410", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R411", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R412", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R413", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R414", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R415", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R416", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R417", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R418", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R419", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R420", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R421", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R422", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R423", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R424", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R425", "reliability": "중", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR) — 단, 재인용 경유", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence", "downgrade_reason": "언론·요약 서비스 재인용(상→중). 원문 미확인"}
+{"rid": "R426", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R427", "reliability": "중", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR) — 단, 재인용 경유", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence", "downgrade_reason": "언론·요약 서비스 재인용(상→중). 원문 미확인"}
+{"rid": "R428", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R429", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R430", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R431", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R432", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R433", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R434", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R435", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R436", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R437", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R438", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R439", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R440", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R441", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R442", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R443", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R444", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R445", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R446", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R447", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R448", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "error", "url_code": null, "record_type": "evidence"}
+{"rid": "R449", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R450", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R451", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R452", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R453", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R454", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R455", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R456", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R457", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R458", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R459", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R460", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R461", "reliability": "하", "reliability_rationale": "2차 요약·블로그", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R462", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R463", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R464", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R465", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R500", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R501", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R502", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R503", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R504", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R505", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R506", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R507", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R508", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R509", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R510", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R511", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R512", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R513", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R514", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R515", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R516", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R517", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R518", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R519", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R520", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R521", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R522", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R523", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 202, "record_type": "evidence"}
+{"rid": "R524", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R525", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R526", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R527", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R528", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R529", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R530", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R531", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R532", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R533", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R534", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R535", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R536", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R537", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R538", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R539", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R540", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R541", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R542", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R543", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R544", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R545", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R546", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R547", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R548", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R549", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R550", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R551", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R552", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R553", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R554", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R555", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R556", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R557", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R558", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R559", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R560", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R561", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R562", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R526", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'peer_reviewed'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R563", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R564", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'registry'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R565", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R566", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지 (유형 재분류)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R567", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R568", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R569", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R570", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R600", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R601", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R602", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R603", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R605", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R606", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R607", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R608", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R609", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R610", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R611", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R613", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R614", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R615", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R616", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R617", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R618", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R620", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R621", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R622", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R624", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R625", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R626", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R627", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R629", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R630", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R631", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R632", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R634", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R635", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R636", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R637", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R638", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R639", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R640", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R641", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R642", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R643", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R644", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R645", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R646", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R649", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R651", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R652", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R653", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R654", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R655", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R657", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R658", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R659", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R653, R618, R657, R614", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'peer_reviewed'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R660", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R661", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R662", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R665", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R667", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R668", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R669", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R670", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R671", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R672", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R700", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R701", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R702", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R703", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R704", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R705", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R706", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R707", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R708", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R709", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R710", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R711", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R712", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R713", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R714", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R715", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R716", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R717", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R718", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R719", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R720", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R721", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R722", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R723", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R724", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R725", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'peer_reviewed'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R726", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R727", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R728", "reliability": "중", "reliability_rationale": "학회 초록·발표", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R730", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R731", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R732", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R733", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R734", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R735", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R736", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R737", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R738", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R739", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R740", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R741", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R742", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R743", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R744", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R745", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R746", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R747", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R748", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R749", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R750", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R751", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R752", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R753", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R754", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 429, "record_type": "evidence"}
+{"rid": "R755", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R756", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R757", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R758", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R759", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R760", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R761", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R762", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R763", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R764", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R765", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R766", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R767", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "error", "url_code": null, "record_type": "evidence"}
+{"rid": "R768", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R769", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R770", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R771", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R772", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R773", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R800", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R801", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R802", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R803", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'peer_reviewed'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R804", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R805", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R806", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R807", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R808", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R809", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R810", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R811", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'peer_reviewed'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R812", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R813", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R814", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R815", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R816", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R817", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R818", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R819", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R820", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R821", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R822", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R823", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R824", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R825", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R826", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R827", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R828", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R829", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R830", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R831", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R832", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R833", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R834", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R835", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R836", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R837", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R838", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R839", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R840", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R841", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R842", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R843", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R844", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R845", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R846", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R847", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R848", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R849", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R847", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'company_filing'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R850", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R851", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R852", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R853", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R854", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R855", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R856", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R857", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R858", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R859", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R860", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R861", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R862", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R863", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R864", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R865", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R866", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R867", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R868", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R869", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R870", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R871", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'peer_reviewed'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R872", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R873", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R874", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R875", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R876", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R877", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R878", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R879", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R880", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R881", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R882", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R883", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R884", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'company_filing'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R885", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R886", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R887", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R888", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R889", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R890", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'company_filing'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R891", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R829", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'peer_reviewed'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R892", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R900", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R901", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R902", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R903", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R904", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R905", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R906", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R907", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R908", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R909", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R910", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R911", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R912", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R913", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R914", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R915", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R916", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R917", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R918", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R919", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R920", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R921", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate"}
+{"rid": "R922", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R923", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate"}
+{"rid": "R924", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R925", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R926", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R927", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R982", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate"}
+{"rid": "R928", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R929", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R930", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R931", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R932", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R933", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R934", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R935", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R936", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R937", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R938", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R939", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R940", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R941", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R942", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R943", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R944", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R945", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R946", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R947", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R948", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R949", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R950", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R951", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R952", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R953", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R954", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate"}
+{"rid": "R955", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R920, R922, R913", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'secondary'(하)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R956", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate"}
+{"rid": "R957", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R918", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'secondary'(하)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R958", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate"}
+{"rid": "R959", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R956", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'secondary'(하)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R960", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R954, R959, R961", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'secondary'(하)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R961", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R915", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'secondary'(하)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R962", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R934", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'secondary'(하)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R963", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R930", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'secondary'(하)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R964", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate"}
+{"rid": "R965", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R904", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'secondary'(하)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R966", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate"}
+{"rid": "R967", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate"}
+{"rid": "R968", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate"}
+{"rid": "R969", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R918, R917", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'secondary'(하)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R970", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R928", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'secondary'(하)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R971", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate"}
+{"rid": "R972", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R973", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R974", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R975", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R976", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R977", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R929", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'secondary'(하)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R978", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R979", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R980", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R981", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R982", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R983", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate"}
+{"rid": "R984", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate"}
+{"rid": "R985", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R986", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R987", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate"}
+{"rid": "R988", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate"}
+{"rid": "R989", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate"}
+{"rid": "R990", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R982, R972, R969, R936", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'secondary'(하)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1000", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1001", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1002", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1003", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1004", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1005", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1006", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1007", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1008", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1009", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1010", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1011", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1012", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1013", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1014", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1015", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1016", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1017", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1018", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1019", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1020", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1021", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1022", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'regulatory'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R1023", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1024", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1025", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1026", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1027", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1028", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1029", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1030", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1031", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1032", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1033", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1034", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'peer_reviewed'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R1035", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'peer_reviewed'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R1036", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1037", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1021, R1023, R1034, R1036", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'regulatory'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1038", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1000, R1001, R1012", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'registry'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1039", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1001", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'registry'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1040", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1002, R1006, R1018", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'registry'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1041", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1004, R1009, R1019", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'registry'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1042", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1038, R1040, R1023", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'registry'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1043", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1044", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1045", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1046", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1047", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1048", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1049", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1050", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1051", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1052", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1053", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1054", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1055", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1056", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1057", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1058", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1059", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1060", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1061", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1062", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1063", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'regulatory'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R1064", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1038", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'registry'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1065", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1066", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'registry'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R1067", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'registry'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R1068", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1069", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1000, R1004, R1009, R1012", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'registry'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1070", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'company_filing'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R1071", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1001, R1002, R1004, R1010", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'registry'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1072", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'peer_reviewed'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R1073", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1074", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1075", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1076", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1034, R1035, R1036, R1073", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'peer_reviewed'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1077", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1078", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1079", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1080", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1081", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1082", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1083", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1038, R1040, R1024, R1025", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'registry'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1084", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1085", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1086", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1087", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1019, R1013", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'peer_reviewed'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1088", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1089", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1090", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1091", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1025, R1043, R1083", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'company_filing'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1092", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1038, R1040", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'registry'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1093", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1094", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1095", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1096", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1038, R1040, R1095", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'peer_reviewed'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1097", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1098", "reliability": "중", "reliability_rationale": "조사 절차 기록(접근 시도·실패)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "process", "downgrade_reason": "접근 시도·실패 기록은 사실 근거가 아님(상→중)"}
+{"rid": "R1099", "reliability": "중", "reliability_rationale": "자체 산출 추정치 — 파생 근거 R1038, R1042, R1083, R1091", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'company_filing'(상)로 분류 → 중. 추정치는 1차 출처가 아니다"}
+{"rid": "R1100", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1101", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1102", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1103", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1104", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1105", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1106", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1107", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1108", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1109", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1110", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1111", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1112", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1113", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1114", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1115", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1116", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1117", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1118", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1119", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1120", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1121", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1122", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1123", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1124", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1125", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1126", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1127", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1128", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1129", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1130", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1131", "reliability": "상", "reliability_rationale": "SEC 제출 문서에 첨부된 보도자료(Ex-99.1 등)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1132", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1133", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1134", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1135", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1136", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1137", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1138", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1139", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1140", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1141", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1142", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1143", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1144", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1145", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1146", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1147", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1148", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1149", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1150", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1151", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1152", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1153", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1154", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1155", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1156", "reliability": "하", "reliability_rationale": "조사 절차 기록(접근 시도·실패)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "process"}
+{"rid": "R1200", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1201", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1202", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1203", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1204", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1205", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1206", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1207", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1208", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1209", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1210", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1211", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1215", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1216", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1217", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1218", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1219", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1220", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1221", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1222", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1223", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1224", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1225", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1226", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1227", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1228", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1229", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1230", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1231", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1232", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1233", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1234", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1235", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1238", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1239", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1240", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1241", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1242", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1243", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1244", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1245", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1246", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1247", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1248", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1253", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1254", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1255", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1256", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1257", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1258", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1259", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1260", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1261", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1262", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1263", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1264", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1265", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1270", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1271", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1272", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1273", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1274", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1275", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1276", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1277", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1278", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1279", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1280", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1281", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1282", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1283", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1284", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "http_error", "url_code": 503, "record_type": "evidence"}
+{"rid": "R1285", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1286", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1287", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1288", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1289", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1290", "reliability": "상", "reliability_rationale": "특허 원문", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1300", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1301", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1302", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1303", "reliability": "상", "reliability_rationale": "peer-reviewed 원논문", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1304", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1305", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1306", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1307", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1308", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1309", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'registry'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R1310", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1311", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1312", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1313", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1314", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1315", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1316", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1317", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1318", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1319", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1320", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1321", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1322", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1323", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1324", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1325", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1326", "reliability": "상", "reliability_rationale": "SEC 제출 문서에 첨부된 보도자료(Ex-99.1 등)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1327", "reliability": "하", "reliability_rationale": "자체 산출 추정치 — 계산 근거 rid 미표기", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "estimate", "downgrade_reason": "자체 산출 추정치([EST])를 출처 유형 'company_filing'(상)로 분류 → 하. 추정치는 1차 출처가 아니다"}
+{"rid": "R1328", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1329", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1330", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1331", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1332", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1333", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1334", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1335", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1336", "reliability": "중", "reliability_rationale": "기업 보도자료", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1337", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1338", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1339", "reliability": "중", "reliability_rationale": "1차 취재 기반 산업지", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1340", "reliability": "하", "reliability_rationale": "2차 요약·블로그", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1341", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1342", "reliability": "상", "reliability_rationale": "임상시험 등록정보 원본", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1343", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1344", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1345", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1346", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 202, "record_type": "evidence"}
+{"rid": "R1347", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "ok", "url_code": 202, "record_type": "evidence"}
+{"rid": "R1348", "reliability": "상", "reliability_rationale": "규제기관 문서(FDA/EMA/MFDS 등)", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1349", "reliability": "하", "reliability_rationale": "2차 요약·재인용", "verified_by": "R", "url_status": "ok", "url_code": 200, "record_type": "evidence"}
+{"rid": "R1350", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1351", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
+{"rid": "R1352", "reliability": "상", "reliability_rationale": "기업 공시(10-K/20-F/8-K/IR)", "verified_by": "R", "url_status": "blocked", "url_code": 403, "record_type": "evidence"}
