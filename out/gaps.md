@@ -871,3 +871,62 @@
 ---
 
 **공백 총계 74건.** 쿼리 3개 미만으로 기록된 항목: 0건 (없음 — 정지조건 충족)
+
+---
+
+## V 감사가 추가로 식별한 미해결 항목
+
+### company_pr·company_filing 근거의 locator 전수 재검증
+
+**미해결 사유** — V 감사가 [R217]의 전거 오류를 적발했다. 무용성 경계 교차를 "BioNTech 2025-11-03
+3분기 보고서"로 기록했으나, 해당 2025-11 제출 6-K(0001193125-25-300670)와 Exhibit 99.1 전문에는
+`futility`·`BNT122` 문언이 0회였고, 실제 출처는 FY2025 20-F(2026-03-10 제출)였다. 주장 자체는
+참이므로 결론에 영향은 없으나, **동일 유형의 전거 오류가 다른 기업 공시 근거에도 존재할 수 있다**.
+전수 검증에는 근거 300건 이상의 원문 전문 검색이 필요해 본 실행에서는 완료하지 못했다.
+
+**시도한 쿼리 (4건)**
+1. `https://data.sec.gov/submissions/CIK0001776985.json` — 2025-11 제출 6-K accession 특정
+2. `https://www.sec.gov/Archives/edgar/data/1776985/000119312525300670/d16834dex991.htm` 전문 검색 (`futility` 0회)
+3. `https://www.sec.gov/Archives/edgar/data/1776985/000119312525300670/d16834d6k.htm` 전문 검색 (`futility` 0회)
+4. `https://www.sec.gov/Archives/edgar/data/1776985/000177698526000017/bntx-20251231.htm` 전문 검색 (`futility` 2회 — 확인)
+
+### 특허 34건의 청구항 원문 미확보
+
+**미해결 사유** — 이 실행 환경에서 `patents.google.com`이 모든 요청에 HTTP 503,
+`worldwide.espacenet.com`이 403, `patents.justia.com`이 Cloudflare 차단을 반환했다. D1·D2가 인용한
+특허 URL 34건이 이 때문에 도달 불가로 남았다. FTO 결론을 좌우하는 UPenn 3건(US 8,278,036 /
+11,389,547 / 8,835,108)만 FreePatentsOnline을 대체 경로로 확보해 청구항 원문을 `out/raw/patent_claims.md`에
+보존했다. **Arbutus US 11,141,378, CureVac US 11,667,910·10,760,070, Gritstone KR 10-2729393의
+청구항 원문은 조사 에이전트의 인용에 의존하며 감사자가 독립 대조하지 못했다.**
+
+**시도한 쿼리 (5건)**
+1. `WebFetch https://patents.google.com/patent/US8278036B2/en` → HTTP 503
+2. `curl https://worldwide.espacenet.com/patent/search?q=pn%3DUS8278036` → HTTP 403
+3. `curl https://patents.justia.com/patent/8278036` → Cloudflare 차단 (title "Just a moment...")
+4. `curl https://api.patentsview.org/patents/query?q={"patent_number":"8278036"}` → 빈 응답
+5. `curl https://www.freepatentsonline.com/8278036.html` → **성공, 대체 경로로 채택**
+
+### 보고서 수치와 근거 문자열의 불일치 후보 180건 전수 확인
+
+**미해결 사유** — `scripts/audit_report.py`가 보고서 숫자를 인용 rid의 claim/quote_ko/notes 문자열과
+대조해 180건을 `needs_human`으로 분리했다. 표본 확인 결과 대부분 표현 차이(예: "9.4주" vs "66일"),
+단위 환산, 반올림에 의한 오탐이었으나 **전수 확인은 하지 못했다**. 자동 판정이 불가능한 유형이며
+사람 또는 독립 에이전트의 항목별 검토가 필요하다.
+
+**시도한 쿼리 (3건)**
+1. `python3 scripts/audit_report.py` — 블록 단위 대조로 1차 축소(314 → 180건)
+2. 연도(19xx/20xx) 패턴 제외 필터 적용 — 오탐 감소
+3. 표본 20건 수동 대조 — 전부 표현 차이로 확인, 실질 불일치 0건
+
+### 서브에이전트 환경 장애로 V 독립 실행 실패
+
+**미해결 사유** — 워크플로 서브에이전트의 권한 핸들러가 도구 입력 파라미터를 제거한 채 반환해
+스키마 검증에 실패하는 오류가 간헐적으로 발생했다. V1·V2 에이전트의 도구 호출 8건 중 각각 8건·7건이
+거부되어 감사를 수행할 수 없었다(조사 단계에서도 동일 장애로 2개 샤드를 폐기했다). 그 결과 V 감사를
+오케스트레이터가 직접 수행했고, **집필자와 감사자가 동일 주체**라는 구조적 약점이 남았다.
+`V_audit.md` §0에 이 한계를 명시했다.
+
+**시도한 쿼리 (3건)**
+1. Workflow `intx_audit.js` 3-에이전트 실행 → 권한 핸들러 오류로 전 도구 호출 실패
+2. 에이전트 트랜스크립트 직접 분석(`agent-*.jsonl`) → 오류 원인이 입력 파라미터 제거임을 확인
+3. 정상 동작한 조사 샤드(wf_36b34e56-757)와 비교 → 장애가 간헐적·비결정적임을 확인
