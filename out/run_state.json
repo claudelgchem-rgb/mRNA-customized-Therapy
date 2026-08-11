@@ -1188,7 +1188,7 @@
   {
    "id": "보고서 인용 rid 전건 실재",
    "pass": true,
-   "detail": "인용 362건, 미존재 0건 []"
+   "detail": "인용 314건, 미존재 0건 []"
   },
   {
    "id": "R 100% 등급화",
@@ -1208,7 +1208,7 @@
   {
    "id": "INTX_report.docx 생성",
    "pass": true,
-   "detail": "95 KB"
+   "detail": "99 KB"
   },
   {
    "id": "V 감사 반려 0건",

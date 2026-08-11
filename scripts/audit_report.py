@@ -102,7 +102,9 @@ def main():
             r = next(iter(rs))
             rec, gr = ledger.get(r), grades.get(r, {})
             if rec and rec.get("reliability") == "하":
-                hedged = re.search(r"가능|추정|시사|보인다|것으로|수 있|불명|미확인|주장|보도|한다고|일 수", s)
+                # [EST] 는 "자체 산출 추정치"라는 명시적 유보 표기이므로 단정형으로 보지 않는다
+                hedged = ("[EST]" in s) or re.search(
+                    r"가능|추정|시사|보인다|것으로|수 있|불명|미확인|주장|보도|한다고|일 수", s)
                 if not hedged:
                     findings["low_grade_assertive"].append(
                         {"line": i, "rid": r, "text": s[:160],
